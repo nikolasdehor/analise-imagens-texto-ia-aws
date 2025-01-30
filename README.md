@@ -127,3 +127,4 @@ Sinta-se à vontade para clonar, modificar e contribuir com melhorias no projeto
 ---
 
 Este repositório faz parte do curso **"Análise Avançada de Imagens e Texto com IA na AWS"** da **DIO**. Bons estudos! 🚀
+
