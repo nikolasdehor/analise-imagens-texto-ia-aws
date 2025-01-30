@@ -119,12 +119,6 @@ Aqui estão alguns prints do funcionamento do projeto:
 ## Contribuição
 Sinta-se à vontade para clonar, modificar e contribuir com melhorias no projeto.
 
-## Como Submeter o Projeto na DIO
-1. Crie um repositório no GitHub.
-2. Adicione o código e o arquivo `README.md` documentando o projeto.
-3. Compartilhe o link do repositório na plataforma DIO pelo botão **"Entregar Projeto"**.
-
 ---
 
 Este repositório faz parte do curso **"Análise Avançada de Imagens e Texto com IA na AWS"** da **DIO**. Bons estudos! 🚀
-
